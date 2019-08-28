@@ -5,4 +5,4 @@ These files work as-is in the Arduino IDE as follows:
     
     delete the file platformio.ini 
 
-This code works with my Android app "simple_wifi-android"
+This code works with my Android app "simple_wifi-android". The default IP for the wifi_AP is 192.168.4.1 which you will have to enter in that app in the "scan ips" page
